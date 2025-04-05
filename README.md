@@ -1,1 +1,1 @@
-# Tax-Refund-Estimator
+This project is a responsive Tax Estimator and Refund Calculator built with HTML, CSS, and JavaScript, allowing users to input financial details and instantly calculate their tax liability or refund in a user-friendly interface.
